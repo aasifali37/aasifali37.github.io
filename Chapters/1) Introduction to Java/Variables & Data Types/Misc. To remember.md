@@ -1,3 +1,5 @@
+# 🏠 [← Back to Index](https://aasifali37.github.io)
+
 # Variables and Data Types - Miscellaneous Points
 
 ## Memory Management in Java
@@ -110,3 +112,5 @@ Method Area (String Pool):
 - Use `L` suffix for long literals: `long num = 123456789L`
 - Use `F` suffix for float literals: `float price = 19.99F`
 - Prefer `double` over `float` for decimal numbers
+
+# 🏠 [← Back to Index](https://aasifali37.github.io)
