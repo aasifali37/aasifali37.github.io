@@ -1,3 +1,4 @@
+# 🏠 [← Back to Index](https://aasifali37.github.io)
 # Variables and Data Types - Notes
 
 ## 1.1 Declaring Variables
@@ -52,5 +53,5 @@ String s3 = s1;                  // s3 points to pool string (same as s1)
 ```
 
 ---
-
+# 🏠 [← Back to Index](https://aasifali37.github.io)
 *Last updated: June 24, 2025*
