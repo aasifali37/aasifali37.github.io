@@ -1,3 +1,4 @@
+# 🏠 [← Back to Index](https://aasifali37.github.io)
 # Variables and Data Types - Questions
 
 ## Multiple Choice Questions
@@ -76,3 +77,5 @@ Implicit casting only works from smaller to larger data types. double to int req
 
 ### Q5 Explanation
 String literals "Java" are stored in the string pool, so s1 and s2 reference the same object. However, `new String("Java")` creates a new object in heap memory.
+
+# 🏠 [← Back to Index](https://aasifali37.github.io)
