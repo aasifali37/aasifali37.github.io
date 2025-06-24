@@ -1,5 +1,7 @@
 # Miscellaneous Java Concepts to Remember
 
+- [🏠 Back to Index](https://aasifali37.github.io)
+
 ## Pre-Increment vs Post-Increment in Java
 
 | Operation | Meaning | When it changes value |
