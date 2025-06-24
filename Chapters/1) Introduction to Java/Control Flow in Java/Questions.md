@@ -134,5 +134,5 @@ What will be the output?
 **C.** a = 2, b = 6  
 **D.** a = 1, b = 6
 
-- [💡 Misc to Remember](./Chapters/1%29%20Introduction%20to%20Java/Control%20Flow%20in%20Java/Misc%20to%20remember.md)
+- [💡 Misc. To Remember](<Chapters/1) Introduction to Java/Control Flow in Java/Misc to remember.md>)
 - [🏠 Back to Index](https://aasifali37.github.io)
